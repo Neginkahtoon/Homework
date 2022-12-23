@@ -1,4 +1,4 @@
-Project by neghin rahimi (۹۸۱۱۱۱۹۰۱۰) and mohammad ghobadi
+Project by negin rahimi (۹۸۱۱۱۱۹۰۱۰) and mohammad ghobadi
 (۹۷۱۱۱۱۹۰۳۶).
 
 How to run:
