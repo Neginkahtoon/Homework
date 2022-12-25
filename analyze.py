@@ -54,10 +54,10 @@ def isKeyword(str):
 
 def main():
     print("(STARTMARKER)")
-    #path = input("Enter path of input scipt file:")
-    #outpath = input("Enter path of output excel file:")
-    path="c:/1.py"
-    outpath="c:/1.xlsx"
+    path = input("Enter path of input scipt file:")
+    outpath = input("Enter path of output excel file:")
+    #path="c:/1.py"
+    #outpath="c:/1.xlsx"
     f = open(path, 'r')
     lines = f.readlines()
     if len(lines) <= 0:
